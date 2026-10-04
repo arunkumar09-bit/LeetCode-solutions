@@ -1,7 +1,7 @@
 class Solution {
 public:
     int beautySum(string s) {
-        long long ans = 0;
+        int ans = 0;
         for (int i = 0; i < s.size(); i++) {
             map<char, int> mpp;
             for (int j = i; j < s.size(); j++) {
@@ -12,7 +12,7 @@ public:
                     maxi = max(maxi, it.second);
                     mini = min(mini, it.second);
                 }
-                ans += ((long long)maxi - (long long)mini);
+                ans += (maxi - mini);
             }
         }
         return ans;
