@@ -4,7 +4,7 @@ public:
         if (s.size() <= 1)
             return s;
         string ans = "";
-        for (int i = 1; i < s.size(); i++) {
+        for (int i = 0; i < s.size(); i++) {
             int low = i;
             int high = i;
             while (low >= 0 && high < s.size()) {
