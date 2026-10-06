@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [1021-remove-outermost-parentheses](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
