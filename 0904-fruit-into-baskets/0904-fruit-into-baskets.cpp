@@ -15,9 +15,8 @@ public:
                 }
                 l++;
             }
-            if (mpp.size() <= k) {
                 maxlen = max(maxlen, r - l + 1);
-            }
+            
             r++;
         }
         return maxlen;
