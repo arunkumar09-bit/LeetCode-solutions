@@ -8,7 +8,7 @@ public:
         map<int, int> mpp;
         while (r < fruits.size()) {
             mpp[fruits[r]]++;
-            while (mpp.size() > k) {
+            if (mpp.size() > k) {
                 mpp[fruits[l]]--;
                 if (mpp[fruits[l]] == 0) {
                     mpp.erase(fruits[l]);
