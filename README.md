@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0595-big-countries) |
+| [1280-students-and-examinations](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/1280-students-and-examinations) |
 | [1683-invalid-tweets](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/1934-confirmation-rate) |
