@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0410-split-array-largest-sum](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0204-count-primes) |
+| [0410-split-array-largest-sum](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0904-fruit-into-baskets](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -79,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Database
 |  |
@@ -94,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/1934-confirmation-rate) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
