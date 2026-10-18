@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Manacher
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0204-count-primes](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0904-fruit-into-baskets](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -123,5 +125,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
