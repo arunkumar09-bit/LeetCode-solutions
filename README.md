@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0204-count-primes](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0860-lemonade-change](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -127,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0860-lemonade-change](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
