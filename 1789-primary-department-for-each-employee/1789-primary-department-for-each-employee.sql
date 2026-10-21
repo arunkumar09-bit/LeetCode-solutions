@@ -1,9 +1,6 @@
-select employee_id, department_id
+select employee_id, case when count(*) = 1 then max(department_id) 
+        else max(case when primary_flag = 'Y' then department_id end) end as department_id
 from Employee
-where primary_flag = 'Y' or employee_id in 
-    (select employee_id 
-    from Employee  
-    group by employee_id
-    having count(*) = 1
-)
+group by employee_id
+
 
