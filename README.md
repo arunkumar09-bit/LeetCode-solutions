@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0860-lemonade-change) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/arunkumar09-bit/LeetCode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
